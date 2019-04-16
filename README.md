@@ -22,5 +22,7 @@ coming soon...
 とってもいい本です。<br>
 トビタがフレッシュだった時に、ゼミの担当教員がくれた思い出の品。<br>
 プログラミング初心者でもとりあえず、なんかかけるようになる。(はず)<br>
+<br>
 なんと原著である「Hands-On Programming with R」が<br>
 誰でも読めるようになってました。<br>
+url : https://rstudio-education.github.io/hopr/index.html
