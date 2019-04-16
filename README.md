@@ -25,4 +25,5 @@ coming soon...
 <br>
 なんと原著である「Hands-On Programming with R」が<br>
 誰でも読めるようになってました。<br>
+英語でも大丈夫という方はこちらがおすすめです。<br>
 url : https://rstudio-education.github.io/hopr/index.html
