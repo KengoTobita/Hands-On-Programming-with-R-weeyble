@@ -1,7 +1,9 @@
-# Rstudioで始める Rプログラミング 勉強会(仮)
+# Rstudioで始める Rプログラミング 勉強会
 Rstudioではじめる Rプログラミング入門を<br>
 少し駆け足で勉強していく会……にしたい。<br>
 R初学者を対象にしています。<br>
+<br>
+今回の勉強会の[connpassページ](https://weeyble-data.connpass.com/event/128290/)はこちらです。<br>
 <br>
 このリポジトリのipynbだけを見ても、なにがなんだか……って感じだと思うので、<br>
 書籍の購入をお願いします。<br>
